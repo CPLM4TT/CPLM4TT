@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CPLM4TT
 - 👀 I’m interested in programming, financial independence and music.
-- 🌱 I’m currently learning web development via The Odin Project.
+- 🌱 I’m currently learning computer programming at Farmingdale State College.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
