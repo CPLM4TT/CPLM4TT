@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CPLM4TT
+- 👋 Hi, I’m Matt.
 - 👀 I’m interested in programming, financial independence and music.
 - 🌱 I’m currently learning computer programming at Farmingdale State College.
 - 💞️ I’m looking to collaborate on ...
